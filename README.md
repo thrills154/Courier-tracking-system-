@@ -90,7 +90,7 @@ Prerequisites:
 •	Virtual Environment (optional but recommended)
 Installation Steps:
 1.	Clone the repository:
-2.	git clone https://github.com/thrills154/courier-tracking-system.git
+2.	git clone https://github.com/thrills154/courier-tracking-system-.git
 3.	cd courier-tracking-system
 4.	Create a virtual environment and activate it:
 5.	python -m venv venv
